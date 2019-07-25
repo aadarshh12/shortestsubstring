@@ -10,16 +10,25 @@ Output
 Examples
 
   banana
+  
   3
 
+
   abcdaaeeee
+  
   6
 
+
   a
+  
   1
 
+
   bab
+  
   2
 
   bcaacbc
-3
+  
+  3
+  
